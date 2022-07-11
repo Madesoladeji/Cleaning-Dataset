@@ -1,6 +1,3 @@
-# Cleaning-Dataset
-This Dataset was cleaned and transposed using Google spreadsheet.
-
 **Data Integrity** is essential when working on  a dataset, and this meaning the data must be cleaned and almost 100% error free before the analysis can begin. In this project, I cleaned and transposed the dataset using google spreadsheet. I will be taking you through the steps I took in achieving this without stress. 
 
 ### Cleaning Data
